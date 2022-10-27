@@ -1,0 +1,373 @@
+ul{
+    list-style-type: none;
+    line-height: 2;
+    padding-left: 0;
+}
+
+a{
+    color: #99FFFF;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+
+.principal{
+    width: 521px;
+    height: 178px;
+    max-width: 60%;
+    margin: 0 auto;
+}
+
+.principal a{
+    color: #771210;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+  }
+
+.abaru {
+    position: absolute;
+    width: 65px;
+    height: 38px;
+    left: 436px;
+    top: 138px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    
+    color: #771210;    
+}
+
+.servicos{
+    position: absolute;
+    width: 80px;
+    height: 38px;
+    left: 530px;
+    top: 138px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    
+    color: #771210;
+}
+
+.quem-nos-acompanha{
+    position: absolute;
+    width: 219px;
+    height: 38px;
+    left: 626px;
+    top: 140px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    
+    color: #771210;
+}
+
+.contato {
+    position: absolute;
+    width: 90px;
+    height: 38px;   
+    left: 861px;
+    top: 138px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+
+    color: #771210;
+}
+
+body{
+    text-align: center;
+    font-family:Open Sans, sans-serif;
+    background-color: #ffff;
+    color: #771210ff;
+    margin: 0px 0px 30px 0px;
+}
+
+.quem-somos{
+    position: absolute;
+    width: 597px;
+    height: 98px;
+    left: 384px;
+    top: 346px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 73px;
+    text-align: center;
+    
+    color: rgba(242, 137, 0, 0.5);
+}
+
+.quem-somos-texto{
+    position: absolute;
+    width: 718px;
+    height: 156px;
+    left: 324px;
+    top: 444px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+
+    color: #771210;
+}
+
+.origem{
+    position: absolute;
+    width: 259px;
+    height: 73px;
+    left: 864px;
+    top: 847px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 73px;
+    text-align: right;
+
+    color: rgba(242, 137, 0, 0.5);
+}
+
+.origem-texto{
+    position: absolute;
+    width: 430px;
+    height: 178px;
+    left: 693px;
+    top: 920px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: right;
+    
+    color: #771210;
+    
+}
+
+.manifesto{
+    position: absolute;
+    width: 375px;
+    height: 73px;
+    left: 240px;
+    top: 1431px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 73px;
+    text-align: right;
+
+    color: rgba(242, 137, 0, 0.5);
+}
+
+.manifesto-texto{
+    position: absolute;
+    width: 782px;
+    height: 975px;
+    left: 242px;
+    top: 1490px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 37px;
+
+    color: #771210;
+}
+
+.idealizador{
+    position: absolute;
+    width: 442px;
+    height: 73px;
+    left: 681px;
+    top: 2461px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 73px;
+    text-align: right;
+
+    color: rgba(242, 137, 0, 0.5);
+}
+
+.idealizador-texto{
+    position: absolute;
+    width: 430px;
+    height: 435px;
+    left: 698px;
+    top: 2519px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 37px;
+    text-align: right;
+
+    color: #771210;
+}
+
+.servicos-desc{
+    position: absolute;
+    width: 319px;
+    height: 73px;
+    left: 524px;
+    top: 3179px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 73px;
+    text-align: right;
+
+    color: rgba(242, 137, 0, 0.5);
+}
+
+.consultoria{
+    position: absolute;
+    width: 260px;
+    height: 124px;
+    left: 223px;
+    top: 3434px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 49px;
+}
+
+.programa{
+    position: absolute;
+    width: 286px;
+    height: 124px;
+    left: 582px;
+    top: 3434px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 49px;
+}
+
+.producao{
+    position: absolute;
+    width: 284px;
+    height: 124px;
+    left: 954px;
+    top: 3434px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 49px;
+}
+
+.acompanha-desc{
+    position: absolute;
+    width: 444px;
+    height: 219px;
+    left: 472px;
+    top: 4033px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 73px;
+    text-align: center;
+
+    color: rgba(242, 137, 0, 0.5);
+}
+
+h2{
+    position: absolute;
+    width: 279px;
+    height: 67px;
+    left: 543px;
+    top: 4269px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 67px;
+
+    text-align: right;
+
+    color: rgba(242, 137, 0, 0.5);
+}
+
+.parceiros{
+    position: absolute;
+    width: 338px;
+    height: 67px;
+    left: 514px;
+    top: 4497px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 67px;
+    /* identical to box height */
+
+    text-align: right;
+
+    color: rgba(242, 137, 0, 0.5);
+}
+
+.contato-desc{
+    position: absolute;
+    width: 418px;
+    height: 137px;
+    left: 484px;
+    top: 5288px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+
+    position: absolute;
+    width: 1385px;
+    height: 194px;
+    left: 0px;
+    top: 5263px;
+
+    background: #CEA87E;
+}
