@@ -241,7 +241,7 @@ body{
     width: 319px;
     height: 73px;
     left: 524px;
-    top: 3179px;
+    top: 3000px;
 
     font-family: 'Montserrat';
     font-style: normal;
@@ -258,13 +258,14 @@ body{
     width: 260px;
     height: 124px;
     left: 223px;
-    top: 3434px;
+    top: 3230px;
 
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 400;
     font-size: 40px;
     line-height: 49px;
+    color: #ffff;
 }
 
 .programa{
@@ -272,13 +273,14 @@ body{
     width: 286px;
     height: 124px;
     left: 582px;
-    top: 3434px;
+    top: 3230px;
 
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 400;
     font-size: 40px;
     line-height: 49px;
+    color: #ffff;
 }
 
 .producao{
@@ -286,13 +288,14 @@ body{
     width: 284px;
     height: 124px;
     left: 954px;
-    top: 3434px;
+    top: 3230px;
 
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 400;
     font-size: 40px;
     line-height: 49px;
+    color: #ffff;
 }
 
 .acompanha-desc{
@@ -300,7 +303,7 @@ body{
     width: 444px;
     height: 219px;
     left: 472px;
-    top: 4033px;
+    top: 3590px;
 
     font-family: 'Montserrat';
     font-style: normal;
@@ -317,7 +320,7 @@ h2{
     width: 279px;
     height: 67px;
     left: 543px;
-    top: 4269px;
+    top: 3800px;
 
     font-family: 'Montserrat';
     font-style: normal;
@@ -335,7 +338,7 @@ h2{
     width: 338px;
     height: 67px;
     left: 514px;
-    top: 4497px;
+    top: 4100px;
 
     font-family: 'Montserrat';
     font-style: normal;
@@ -367,7 +370,61 @@ h2{
     width: 1385px;
     height: 194px;
     left: 0px;
-    top: 5263px;
+    top: 4600px;
 
     background: #CEA87E;
+}
+
+.logo{
+    position: absolute;
+    width: 214px;
+    height: 104px;
+    left: 576px;
+    top: 34px;
+}
+
+.icone{
+    position: absolute;
+    width: 377px;
+    height: 397px;
+    left: 223px;
+    top: 836px;
+}
+
+.foto{
+    position: absolute;
+    width: 340px;
+    height: 337px;
+    left: 243px;
+    top: 2560px;
+}
+
+.retangulo1{
+    position: absolute;
+    width: 370px;
+    height: 370px;
+    left: 128px;
+    top: 3230px;
+
+    background: #FF8800;
+}
+
+.retangulo2{
+    position: absolute;
+    width: 370px;
+    height: 370px;
+    left: 498px;
+    top: 3230px;
+    
+    background: #CEA87E;
+}
+
+.retangulo3{
+    position: absolute;
+    width: 370px;
+    height: 370px;
+    left: 868px;
+    top: 3230px;
+    
+    background: #771210;
 }
