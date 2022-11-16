@@ -428,3 +428,44 @@ h2{
     
     background: #771210;
 }
+
+.abaru {
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    width: 65px;
+    height: 38px;
+    left: 436px;
+    top: 138px;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    
+    color: #771210;    
+}
+
+.dropdown-content a {
+    color: #771210;
+    padding: 20px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+
+.dropdown:hover .dropdown-content {
+        display: block;
+}
+      
+
+  
+
+
+
