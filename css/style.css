@@ -354,7 +354,7 @@ body{
     width: 444px;
     height: 219px;
     left: 472px;
-    top: 3590px;
+    top: 3780px;
 
     font-family: 'Montserrat';
     font-style: normal;
@@ -371,7 +371,7 @@ h2{
     width: 279px;
     height: 67px;
     left: 543px;
-    top: 3800px;
+    top: 4030px;
 
     font-family: 'Montserrat';
     font-style: normal;
@@ -389,7 +389,7 @@ h2{
     width: 338px;
     height: 67px;
     left: 514px;
-    top: 4100px;
+    top: 4280px;
 
     font-family: 'Montserrat';
     font-style: normal;
@@ -421,7 +421,7 @@ h2{
     width: 1385px;
     height: 194px;
     left: 0px;
-    top: 4600px;
+    top: 4800px;
 
     background: #CEA87E;
 }
@@ -474,10 +474,27 @@ h2{
 
 .linkedin{
     position: absolute;
-width: 49px;
-height: 49px;
-left: 1004px;
-top: 2564px;
-
-background: url(5282542_linkedin_network_social network_linkedin logo_icon.png);
+    width: 49px;
+    height: 49px;
+    left: 300px;
+    top: 70px;
+    Opacity: 15%;    
 }
+
+.blog{
+    position: absolute;
+    width: 54px;
+    height: 54px;
+    left: 375px;
+    top: 70px;
+    Opacity: 20%; 
+}
+
+.cresol{
+    position: absolute;
+    width: 382px;
+    height: 127px;
+    left: 512px;
+    top: 4170px;
+}
+
