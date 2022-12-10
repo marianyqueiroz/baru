@@ -68,6 +68,10 @@ p, h3{
 
 }
 
+.manifesto{
+    line-height: 1.9rem;
+}
+
 .quem-somos{
     max-width: 738px;
     margin: 0 auto;
